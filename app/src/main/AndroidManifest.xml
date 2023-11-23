@@ -28,7 +28,7 @@
             android:exported="false" />
         -->
         <activity
-            android:name=".MainActivityLab7_1"
+            android:name=".MainActivityLab7_2"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
